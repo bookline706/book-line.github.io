@@ -342,9 +342,7 @@ right: 0;
    .logo, span{
     font-size: 3.5rem;
    }
-    .footer{
-        position: fixed;
-    }
+  
  }
  @media  (max-width: 991px)
  {
