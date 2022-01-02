@@ -281,7 +281,7 @@ right: 0;
          display: block;
      }
  }
- @media (max-width: 600px) 
+ @media (max-width: 800px) 
  {
      .icons #menu-bars{
          display: block;
