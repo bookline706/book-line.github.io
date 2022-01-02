@@ -93,6 +93,8 @@ right: 0;
    
 }
 .col-1{
+
+    margin-top: 7rem;
 }
 .col-2{
     flex-basis: 50%;
@@ -284,6 +286,11 @@ right: 0;
  {
      .icons #menu-bars{
          display: block;
+         font-size: 3rem;
+     }
+     .icons #menu-bars:hover{
+         background-color: blue;
+         color: cornsilk;
      }
     .navbar{
          position: absolute;
@@ -324,7 +331,12 @@ right: 0;
        grid-template-columns: repeat(auto-fit, minmax(28rem, 1fr));
        gap: 1rem;
    }
-    
+   .logo, span{
+    font-size: 3.5rem;
+   }
+    .footer{
+        position: fixed;
+    }
  }
  @media  (max-width: 991px)
  {
