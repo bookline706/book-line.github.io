@@ -301,6 +301,14 @@ right: 0;
          clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
          
      }
+      .col-1{
+          margin-left: 1rem;
+        
+      }
+      .btn{
+          height: 3rem;
+          width: 5rem;
+      }
      .navbar.active{
          clip-path:polygon(0 0, 100% 0, 100% 100%, 0% 100%);
      }
